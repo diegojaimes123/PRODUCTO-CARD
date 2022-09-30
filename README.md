@@ -4,7 +4,6 @@
 
 ---
 
-# buenos dias
 
 REPOSITORIO DE PRODUCTO CARD 
 
