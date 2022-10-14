@@ -16,6 +16,11 @@ Buenos dias mi nombre es DEIGO ALEXANDER JAIMES RONDEROS, estudiante del Sena en
 ## EVIDENCIAS: 
 
 * PRODUCTO CARD 
+*  carpeta css la cual contiene dos archivos css provenientes de el archivo scss compilado 
+* carpeta js con un archivo que le da la funcionalidad a la pagina 
+* carpeta scss la cual contine un archivo scss con los diseños de la pagina 
+* img la cual contine las imagenes del poyeccto 
+* archivo index en html el cuel es una imagen de huevos con animaion por cursor 
 
 ##  diseño y programacion de sofware. 
 
